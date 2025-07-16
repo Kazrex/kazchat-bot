@@ -1,0 +1,13 @@
+{
+  "name": "kazchat-bot",
+  "version": "1.0.0",
+  "description": "Kazakh Language Telegram AI Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.0.0",
+    "dotenv": "^10.0.0"
+  }
+}
